@@ -1,3 +1,4 @@
+
 ## Star Power :sparkles:
 
 #### If you like my work please star :star: the repo.
@@ -49,7 +50,7 @@ The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our
 
 <br />
 
-## :construction: Step 1 :construction:
+## :construction: Step 1 :construction: - Clone :dancers: this Repository 
 > Clone this Repository
 
 ```sh
@@ -58,7 +59,7 @@ git clone https://github.com/Mary-Tyler-Moore/pet-partners.git
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/git-clone-2.gif?raw=true" width="1000" />
 
-## :construction: Step 2 :construction:
+## :construction: Step 2 :construction: - Install :cd: and Build :hammer:
 > Install project dependencies and build for production.
 
 ```sh
@@ -68,14 +69,18 @@ quasar build -m spa
 ``` 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/npm-install-3.gif?raw=true" width="1000" />
 
-## :construction: Step 3 :construction:
+## :construction: Step 3 :construction: - Push :raised_hands: Build :hammer: Folder :open_file_folder:
 > Open VS Code.  Navigate to Source Control. Give the commit a memorable message, something that will clearly communicate to your coworkers the exact purpose of this commit. 
 > 
-> For this example I accidentally wrote the message: "baby-yoday" :joy_cat:. 
+> For this example I gracefully wrote the message: "baby-yoday" :joy_cat:. 
 > 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
 
-> There is also warning message that pops up. You will often see this message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
+> There is also a warning message that pops up. You will often see this message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
+
+## :construction: Step 4 :construction: - Deploy to Netlify
+
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/netlify-new-site.gif?raw=true" width="1000" />
 
 ## Baby Yoda :green_heart:
 We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
