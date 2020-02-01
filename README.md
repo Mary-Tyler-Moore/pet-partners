@@ -50,7 +50,6 @@ The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our
 <br />
 
 ## :construction: Step 1 :construction:
-> Install Creajfjdsjaoad
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/quasar-create.gif?raw=true" width="1000" />
 
