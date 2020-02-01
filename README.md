@@ -68,6 +68,15 @@ quasar build -m spa
 ``` 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/npm-install-3.gif?raw=true" width="1000" />
 
+## :construction: Step 3 :construction:
+> Open VS Code.  Navigate to Source Control. Give the commit a memorable message, something that will clearly communicate to your coworkers exact purpose of this commit. 
+> 
+> For this example I accidentally wrote the message: "baby-yoday" :joy_cat:. 
+> 
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
+
+> There is a great warning messthing that you often see when working on a project with multiple people making commits to the same branch. We are not able to push our code until we first pull the updated code from GitHub. 
+
 ## Baby Yoda :green_heart:
 We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
 
@@ -90,3 +99,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Author's Environmental Impact Statement:
 
 #### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please help me become a more carbon :deciduous_tree: neutral :recycle: JS dev by sharing your star power :sparkles: with me.
+
