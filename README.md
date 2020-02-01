@@ -49,6 +49,19 @@ The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our
 
 <br />
 
+## :construction: Step 1 :construction:
+> Install Creajfjdsjaoad
+
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/quasar-create.gif?raw=true" width="1000" />
+
+## :construction: Step 2 :construction:
+
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/quasar-dev.gif?raw=true" width="1000" />
+
+## :construction: Step 3 :construction:
+
+<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/quasar-build-3.gif?raw=true" width="1000" />
+
 ## Baby Yoda :green_heart:
 We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
 
