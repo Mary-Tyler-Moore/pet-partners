@@ -43,7 +43,7 @@ The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our
 <br />
 
 ## Baby Yoda :green_heart:
-We currently have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Baby Yoda is helping me find a remote job.
+We currently have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" />
 <br/>
