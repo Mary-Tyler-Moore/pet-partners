@@ -30,7 +30,7 @@ I prefer to work on Apple :apple: but I am doing this is a personal favor. If wo
 
 Please :pray: make Pull Request if you want to add your favorite pet to the list below. 
 
-> * Pet Rental List:
+> ***Pet Rental List:***
 > * Dogs :dog:
 > * Cats :cat:
 > * Rabbits :rabbit:
