@@ -31,7 +31,7 @@ I prefer to work on Mac :apple: but I am doing this is as a personal favor. If y
 <br />
 
 ## What to Expect:
-***Lots*** of cute pictures of pets. We are starting off with cats :cat: dogs :dog: and rabbits :rabbits: but we are open to exotic :dragon: varities of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. 
+***Lots*** of cute pictures of pets. We are starting off with cats :cat: dogs :dog: and rabbits :rabbit: but we are open to exotic :dragon: variaties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. 
 
 Please :pray: make Pull Request if you want to add your favorite pet to the list below. 
 
@@ -44,7 +44,7 @@ Please :pray: make Pull Request if you want to add your favorite pet to the list
 <br />
 
 ## Target Market:
-***Pet Partners*** will aggressively market to anyone who is having a bad day :sob:. Customers will be able to reach us on the hotline we will have listed as a banner on the top of our website, but we will also setup a pet booking system with Node.js and Mongo DB Cloud Atlas.
+***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Customers will be able to reach us on the hotline we will have listed as a banner on the top of our website, but we will also setup a pet booking system with Node.js and Mongo DB Cloud Atlas.
 
 The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out!
 
@@ -69,7 +69,8 @@ quasar build -m spa
 ``` 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/npm-install-3.gif?raw=true" width="1000" />
 
-## :construction: Step 3 :construction: - Push :raised_hands: Build :hammer: Folder :open_file_folder:
+## :construction: Step 3 :construction: - Push :raised_hands: Build Folder :open_file_folder: ***dist/spa***
+
 > Open VS Code.  Navigate to Source Control. Give the commit a memorable message, something that will clearly communicate to your coworkers the exact purpose of this commit. 
 > 
 > For this example I gracefully wrote the message: "baby-yoday" :joy_cat:. 
@@ -78,7 +79,7 @@ quasar build -m spa
 
 > There is also a warning message that pops up. You will often see this message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
 
-## :construction: Step 4 :construction: - Deploy to Netlify
+## :construction: Step 4 :construction: - Deploy to Netlify :sparkles:
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/netlify-new-site.gif?raw=true" width="1000" />
 
