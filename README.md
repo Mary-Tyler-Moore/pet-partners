@@ -177,7 +177,7 @@ We have Baby Yoda working with us. In exchange for his help I will be creating a
 
 ## Job Hunt:
 
-Please :pray: help me find a remote :satellite: job as a JS Dev. I'm really applying myself.
+Please :pray: help me find a remote :satellite: job as a JS Dev. I'm really "applying" myself.
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/job-hunt.jpg?raw=true" />
 
