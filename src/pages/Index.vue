@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center">
     <q-card class="my-card">
-      <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true">
+      <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" />
 
       <q-card-section>
         <div class="text-h6">We have the Baby Yoda</div>
