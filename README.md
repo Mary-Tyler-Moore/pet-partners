@@ -26,14 +26,14 @@ I prefer to work on Mac :apple: but I am doing this is as a personal favor. If y
 
 
 ## Project Background:
-**Pet Partners** is a fictional Pet :rabbit: Rental :dog: Service created by my daughter. She is my #1 UX/UI tester and has extensive experience catching bugs :space_invader: in my cross-platform Applications :floppy_disk: :dash: . She is the :star: of my life. 
+**Pet Partners** is a fictional ***Pet*** :rabbit: ***Rental*** :dog: ***Service** created by my daughter and I. She is my #1 UX/UI tester and has extensive experience catching bugs :space_invader: in my cross-platform Applications :floppy_disk: :dash: . She is the :star: of my life. 
 
 <br />
 
 ## What to Expect:
-***Lots*** of cute pictures of pets. We are starting off with cats :cat: dogs :dog: and rabbits :rabbit: but we are open to exotic :dragon: variaties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. 
+***Lots*** of cute pictures of pets. We are starting off by offering with cats :cat: dogs :dog: and rabbits :rabbit2: on short-term lease, but we are also open to exotic :dragon: varieties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. 
 
-Please :pray: make Pull Request if you want to add your favorite pet to the list below. 
+Please :pray: make a Pull Request if you would like to add your favorite pet to the list below. 
 
 > ***Pet Rental List:***
 > * Dogs :dog:
