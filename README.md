@@ -41,7 +41,7 @@ Please :pray: make a Pull Request if you would like to add your favorite pet to 
 <br />
 
 ## Target Market:
-***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Not only will customers be able to reach us on the hotline :telephone_receiver: listed online, but also book a pet appointment system wemwrr writing in express and MongoDB Cloud Atlas.
+***Pet Partners*** will aggressively market to anyone having a bad day :sob:. In case of an emergency, our clients can contact us on the hotline :telephone_receiver: listed on our site. In the coming weeks we will be adding a Pet Booking and Reversavation system as well.
 
 The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out! 
 
