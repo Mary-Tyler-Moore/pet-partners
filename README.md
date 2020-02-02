@@ -44,7 +44,7 @@ Please :pray: make Pull Request if you want to add your favorite pet to the list
 <br />
 
 ## Target Market:
-***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Customers will be able to reach us on the hotline we will have listed as a banner on the top of our website, but we will also setup a pet booking system with Node.js and Mongo DB Cloud Atlas.
+***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Customers will be able to reach us on the hotline listed on our website, but we will also create a pet booking system with Node.js and Mongo DB Cloud Atlas.
 
 The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out!
 
@@ -55,6 +55,8 @@ The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our
 
 ```sh
 git clone https://github.com/Mary-Tyler-Moore/pet-partners.git
+
+cd pet-partners
 ```
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/git-clone-2.gif?raw=true" width="1000" />
@@ -64,10 +66,14 @@ git clone https://github.com/Mary-Tyler-Moore/pet-partners.git
 
 ```sh
 npm install
+
 quasar dev
+
 quasar build -m spa
 ``` 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/npm-install-3.gif?raw=true" width="1000" />
+
+<br />
 
 ## :construction: Step 3 :construction: - Push :raised_hands: Build Folder :open_file_folder: ***dist/spa***
 
@@ -75,15 +81,20 @@ quasar build -m spa
 > 
 > For this example I gracefully wrote the message: "baby-yoday" :joy_cat:. 
 > 
+
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
 
 > There is also a warning message that pops up. You will often see this message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
+
+<br />
 
 ## :construction: Step 4 :construction: - Deploy to Netlify :sparkles:
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/netlify-new-site.gif?raw=true" width="1000" />
 
-## Baby Yoda :green_heart:
+<br />
+
+## Baby Yoda Power :green_heart:
 We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" />
