@@ -29,7 +29,7 @@ I prefer to work on Mac :apple: but I am doing this is as a personal favor. If y
 <br />
 
 ## What to Expect:
-***Lots*** of cute pictures of pets. We are starting off by offering cats :cat2: , dogs :dog2: and rabbits :rabbit2: on short-term lease, but we are also open to exotic :dragon: varieties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. ***Our mission*** is to bring joy to everyone through the power of pets. If your pet brings you joy, then there is a good chance if will bring someone else joy as well.
+***Lots*** of cute pictures of pets. We are starting off by offering cats :cat2: , dogs :dog2: and rabbits :rabbit2: on short-term lease, but we are also open to exotic :dragon: varieties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. ***Our mission*** is to bring joy to everyone through the power of pets. If your pet brings you joy there is an high probability :chart_with_upwards_trend: that your pet will bring someone else joy as well.
 
 Please :pray: make a Pull Request if you would like to add your favorite pet to the list below. 
 
@@ -42,7 +42,7 @@ Please :pray: make a Pull Request if you would like to add your favorite pet to 
 <br />
 
 ## Target Market:
-***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Customers will be able to reach us on the hotline listed on our website, but we will also create a pet booking system with Node.js and Mongo DB Cloud Atlas.
+***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Not only will customers be able to reach us on the hotline :telephone_receiver: listed online, but we are also creating a pet booking system using Node.js and Mongo DB Cloud Atlas.
 
 The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out!
 
