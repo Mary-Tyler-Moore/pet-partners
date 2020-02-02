@@ -13,8 +13,6 @@
     <br />
     <br />
     <img src="https://placekitten.com/1000/700" />
-
-
 <br />
 
 ## Motivation: :running: :dash:
@@ -26,7 +24,7 @@ I prefer to work on Mac :apple: but I am doing this is as a personal favor. If y
 
 
 ## Project Background:
-**Pet Partners** is a fictional ***Pet*** :rabbit: ***Rental*** :dog: ***Service** created by my daughter and I. She is my #1 UX/UI tester and has extensive experience catching bugs :space_invader: in my cross-platform :floppy_disk: :dash: applications. She is the :star: of my life. 
+**Pet Partners** is a fictional ***Pet*** :rabbit: ***Rental*** :dog: ***Service*** created by my daughter. She is my #1 UX/UI tester and has extensive experience catching bugs :space_invader: in my cross-platform :floppy_disk: :dash: applications. She is the :star: of my life. 
 
 <br />
 
@@ -61,6 +59,8 @@ cd pet-partners
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/git-clone-2.gif?raw=true" width="1000" />
 
+<br />
+
 ## :construction: Step 2 :construction: - Install :cd: and Build :hammer:
 > Install project dependencies and build for production.
 
@@ -84,7 +84,7 @@ quasar build -m spa
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
 
-> There is also a warning message that pops up. You will often see this message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
+> A warning message that pops up. You will often see this warning message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
 
 <br />
 
@@ -99,6 +99,8 @@ We have Baby Yoda working with us. In exchange for his help I will be creating a
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" />
 <br/>
+
+## Job Hunt:
 
 Please :pray: help me find a remote :satellite: job as a JS Dev. I'm really applying myself.
 
