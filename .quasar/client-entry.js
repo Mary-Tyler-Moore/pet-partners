@@ -12,6 +12,8 @@
 
 
 
+import '@quasar/extras/mdi-v4/mdi-v4.css'
+
 import '@quasar/extras/roboto-font/roboto-font.css'
 
 import '@quasar/extras/material-icons/material-icons.css'
@@ -44,6 +46,12 @@ import qboot_Bootaxios from 'boot/axios'
 
 
 
+Vue.config.devtools = true
+Vue.config.productionTip = false
+
+
+
+console.info('[Quasar] Running SPA.')
 
 
 

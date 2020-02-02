@@ -1,7 +1,15 @@
 <template>
   <q-layout view="lHh Lpr lFf">
     <q-header elevated>
-      <q-toolbar>
+      <q-toolbar
+        style="height: 75px"
+        class="shadow-18"
+        :style="
+          $q.dark.isActive
+            ? 'background-image: linear-gradient(to right, #30cfd0 0%, #330867 75%)'
+            : 'background-image: linear-gradient(to right, #fa709a 25%, #fee140 100%)'
+        "
+      >
         <q-btn
           flat
           dense
@@ -11,74 +19,126 @@
           aria-label="Menu"
         />
 
-        <q-toolbar-title>
-          Quasar App
-        </q-toolbar-title>
-
-        <div>Quasar v{{ $q.version }}</div>
+        <q-toolbar-title class="absolute-center text-h4"
+          >Pet Partners</q-toolbar-title
+        >
+        <!-- Dark Mode Toggle -->
+        <q-btn
+          :icon="$q.dark.isActive ? 'wb_sunny' : 'brightness_3'"
+          flat
+          class="absolute-right"
+          style="margin-right: 2em"
+          dense
+          round
+          @click="$q.dark.isActive ? $q.dark.set(false) : $q.dark.set(true)"
+          no-caps
+        ></q-btn>
+        <!-- Dark Mode Toggle -->
       </q-toolbar>
     </q-header>
 
     <q-drawer
       v-model="leftDrawerOpen"
-      show-if-above
       bordered
-      content-class="bg-grey-2"
+      :content-class="$q.dark.isActive ? 'bg-grey-10' : 'bg-grey-2'"
     >
       <q-list>
-        <q-item-label header>Essential Links</q-item-label>
-        <q-item clickable tag="a" target="_blank" href="https://quasar.dev">
+        <q-item-label
+          header
+          :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+          >Navigation</q-item-label
+        >
+
+        <q-item
+          :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+          exact
+          clickable
+          to="/"
+          active-class="my-menu-link"
+        >
           <q-item-section avatar>
-            <q-icon name="school" />
+            <q-icon name="home" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Docs</q-item-label>
-            <q-item-label caption>quasar.dev</q-item-label>
+            <q-item-label
+              :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+              >Home</q-item-label
+            >
+            <!--
+            <q-item-label>{{ nav.label }}</q-item-label>
+            -->
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://github.quasar.dev">
+
+        <q-item
+          :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+          exact
+          clickable
+          to="/"
+          active-class="my-menu-link"
+        >
           <q-item-section avatar>
-            <q-icon name="code" />
+            <q-icon name="mdi-dog" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Github</q-item-label>
-            <q-item-label caption>github.com/quasarframework</q-item-label>
+            <q-item-label
+              :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+              >Puppy Rentals</q-item-label
+            >
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://chat.quasar.dev">
+
+        <q-item
+          :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+          exact
+          clickable
+          to="/"
+          active-class="my-menu-link"
+        >
           <q-item-section avatar>
-            <q-icon name="chat" />
+            <q-icon name="mdi-cat" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Discord Chat Channel</q-item-label>
-            <q-item-label caption>chat.quasar.dev</q-item-label>
+            <q-item-label
+              :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+              >Kitten Rentals</q-item-label
+            >
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://forum.quasar.dev">
+
+        <q-item
+          :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+          exact
+          clickable
+          to="/"
+          active-class="my-menu-link"
+        >
           <q-item-section avatar>
             <q-icon name="record_voice_over" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Forum</q-item-label>
-            <q-item-label caption>forum.quasar.dev</q-item-label>
+            <q-item-label
+              :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+              >Testimonials</q-item-label
+            >
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://twitter.quasar.dev">
+
+        <q-item
+          :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+          exact
+          clickable
+          to="/"
+          active-class="my-menu-link"
+        >
           <q-item-section avatar>
-            <q-icon name="rss_feed" />
+            <q-icon name="mail_outline" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Twitter</q-item-label>
-            <q-item-label caption>@quasarframework</q-item-label>
-          </q-item-section>
-        </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://facebook.quasar.dev">
-          <q-item-section avatar>
-            <q-icon name="public" />
-          </q-item-section>
-          <q-item-section>
-            <q-item-label>Facebook</q-item-label>
-            <q-item-label caption>@QuasarFramework</q-item-label>
+            <q-item-label
+              :style="$q.dark.isActive ? 'color: white' : 'color: black'"
+              >Contact</q-item-label
+            >
           </q-item-section>
         </q-item>
       </q-list>
@@ -92,12 +152,16 @@
 
 <script>
 export default {
-  name: 'MyLayout',
-
-  data () {
+  name: "MyLayout",
+  data() {
     return {
       leftDrawerOpen: false
-    }
+    };
   }
-}
+};
 </script>
+<style lang="scss" scoped>
+.toolbar-gradient {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+</style>
