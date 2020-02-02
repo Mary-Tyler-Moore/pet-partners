@@ -26,7 +26,7 @@ I prefer to work on Mac :apple: but I am doing this is as a personal favor. If y
 
 
 ## Project Background:
-**Pet Partners** is a fictional ***Pet*** :rabbit: ***Rental*** :dog: ***Service** created by my daughter and I. She is my #1 UX/UI tester and has extensive experience catching bugs :space_invader: in my cross-platform Applications :floppy_disk: :dash: . She is the :star: of my life. 
+**Pet Partners** is a fictional ***Pet*** :rabbit: ***Rental*** :dog: ***Service** created by my daughter and I. She is my #1 UX/UI tester and has extensive experience catching bugs :space_invader: in my cross-platform :floppy_disk: :dash: applications. She is the :star: of my life. 
 
 <br />
 
