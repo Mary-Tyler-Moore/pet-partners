@@ -96,6 +96,7 @@ quasar build -m spa
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/netlify-new-site.gif?raw=true" width="1000" />
 
 <br />
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information. 
@@ -109,8 +110,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 #### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
 
 #### :gift_heart: Always remember there are Quasarians worldwide :earth_americas: ready to help you.
-
-<br />
 
 <br />
 
