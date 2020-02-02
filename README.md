@@ -29,7 +29,7 @@ I prefer to work on Mac :apple: but I am doing this is as a personal favor. If y
 <br />
 
 ## What to Expect:
-***Lots*** of cute pictures of pets. We are starting off by offering with cats :cat: dogs :dog: and rabbits :rabbit2: on short-term lease, but we are also open to exotic :dragon: varieties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. 
+***Lots*** of cute pictures of pets. We are starting off by offering cats :cat2: , dogs :dog2: and rabbits :rabbit2: on short-term lease, but we are also open to exotic :dragon: varieties of pets as well. ***Pet Partners*** will house and nurture any type of pet as long as that pet brings their owner joy. ***Our mission*** is to bring joy to everyone through the power of pets. If your pet brings you joy, then there is a good chance if will bring someone else joy as well.
 
 Please :pray: make a Pull Request if you would like to add your favorite pet to the list below. 
 
