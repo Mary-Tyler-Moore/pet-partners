@@ -84,7 +84,7 @@ quasar build -m spa
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
 
-> A warning message that pops up. You will often see this warning message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
+> A warning message pops up. You will often see this warning message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
 
 <br />
 
