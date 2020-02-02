@@ -42,9 +42,9 @@ Please :pray: make a Pull Request if you would like to add your favorite pet to 
 <br />
 
 ## Target Market:
-***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Not only will customers be able to reach us on the hotline :telephone_receiver: listed online, but we are also creating a pet booking system using Node.js and Mongo DB Cloud Atlas.
+***Pet Partners*** will aggressively market to anyone having a bad day :sob:. Not only will customers be able to reach us on the hotline :telephone_receiver: listed online, but also book a pet appointment system wemwrr writing in express and MongoDB Cloud Atlas.
 
-The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out!
+The mission of ***Pet Partners*** is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out! 
 
 <br />
 
@@ -82,7 +82,11 @@ quasar build -m spa
 > For this example I gracefully wrote the message: "baby-yoday" :joy_cat:. 
 > 
 
+<br />
+
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/push-code.gif?raw=true" width="1000" />
+
+<br />
 
 > A warning message pops up. You will often see this warning message when working on a project with multiple people making commits to the same branch. Notice how we are not able to push our code until we first pull the updated code from GitHub. 
 
@@ -95,9 +99,11 @@ quasar build -m spa
 <br />
 
 ## Baby Yoda Power :green_heart:
+
 We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
 
 <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" />
+
 <br/>
 
 ## Job Hunt:
