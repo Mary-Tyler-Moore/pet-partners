@@ -11,7 +11,7 @@
     <br />
     <br />
     <br />
-    <img src="https://placekitten.com/1000/700" />
+    <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/pet-partners.jpg?raw=true" width="1000" />
 <br />
 
 ## Motivation: :running: :dash:
