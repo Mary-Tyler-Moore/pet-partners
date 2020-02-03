@@ -4,7 +4,7 @@
       class="text-h6"
       :style="$q.dark.isActive ? 'color: white' : 'color: black'"
     >
-      555.555.55 | petpartners@email.com
+      555.555.5555 | tmoorewebdesigns@gmail.com <br />
     </div>
     <div
       class="text-h6 text-italic"
