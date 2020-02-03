@@ -11,7 +11,7 @@
     <br />
     <br />
     <br />
-    <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/pet-partners.jpg?raw=true" width="1000" />
+    <img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/43F53DF6-1F8A-452A-8B8D-19089CB2911A.jpeg?raw=true" width="1000" />
 <br />
 
 ## Motivation: :running: :dash:
