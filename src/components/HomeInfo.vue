@@ -67,7 +67,7 @@
           <q-parallax src="statics/pug-frown.jpg" :height="400">
             <q-btn
               class="absolute-top-right"
-              to="/business"
+              to="/"
               color="white"
               icon="chevron_right"
               label="Puppy Rentals"
@@ -104,7 +104,7 @@
           <q-parallax src="https://placekitten.com/1920/1280" :height="400">
             <q-btn
               class="absolute-top-right"
-              to="/weddings"
+              to="/"
               color="white"
               icon="chevron_right"
               label="Kitten Rentals"
