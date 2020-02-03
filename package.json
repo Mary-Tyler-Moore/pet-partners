@@ -1,8 +1,8 @@
 {
   "name": "pet-partners",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "description": "A Fictional Pet Rental Service",
+  "productName": "Pet Partners",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
   "author": "Mary-Tyler-Moore",
