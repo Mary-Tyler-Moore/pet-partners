@@ -45,7 +45,7 @@ Please :pray: make a Pull Request if you would like to add your favorite pet to 
 
 ## Target Market:
 
-:heart_eyes_cat: ***_Pet Partners*** :smile_cat: will aggressively market to anyone having a bad day :sob:. In case of an emergency, our clients can contact us on the hotline :telephone_receiver: listed on our site. In the coming weeks we will be adding a Pet Booking and Reversavation system as well.
+:heart_eyes_cat: ***Pet Partners*** :smile_cat: will aggressively market to anyone having a bad day :sob:. In case of an emergency, our clients can contact us on the hotline :telephone_receiver: listed on our site. In the coming weeks we will be adding a Pet Booking and Reversavation system as well.
 
 The mission of :heart_eyes_cat: ***Pet Partners*** :smile_cat: is to brighten :rainbow: people's day with our loving, and well behaved pets. We at ***Pet Partners*** are committed to offering pet accessibility to those who are sick, depressed or stressed out!
 
