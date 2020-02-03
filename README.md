@@ -16,9 +16,7 @@
 
 ## Motivation: :running: :dash:
 
-A student :mortar_board: of mine asked for help :pray: creating a [Quasar](https://quasar.dev/) project. This student uses Windows 10 :computer: so the screen recordings :movie_camera: will reflect this fact.
-
-I prefer to work on Mac :apple: but I am doing this is as a personal favor. If you would like to see a guide for installing [Quasar CLI](https://quasar.dev/start/quasar-cli) on Mac :apple: please check [here](https://github.com/Mary-Tyler-Moore/venues-production).
+A student :mortar_board: of mine asked for help :pray: creating a [Quasar](https://quasar.dev/) project. This student uses Windows 10 :computer: so the screen recordings :movie_camera: will reflect this fact. My preference is to develop on Mac :apple: but I am doing this is as a personal favor for my student. If you would like to see a guide for installing [Quasar CLI](https://quasar.dev/start/quasar-cli) on Mac :apple: please check [here](https://github.com/Mary-Tyler-Moore/venues-production).
 
 <br />
 
