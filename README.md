@@ -164,29 +164,3 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
 
 ###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
-
-<br />
-
----
-
-<br />
-
-## Baby Yoda Power :green_heart:
-
-We have Baby Yoda working with us. In exchange for his help I will be creating a markdown Baby Yoda Emoji. Please :pray: check back for that update. Currently Baby Yoda is very busy helping me find a remote job.
-
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/Mary-Tyler-Moore.png?raw=true" />
-
-<br/>
-
-## Job Hunt:
-
-Please :pray: help me find a remote :satellite: job as a JS Dev. I'm really "applying" myself.
-
-<img src="https://github.com/Mary-Tyler-Moore/readme-gifs/blob/master/pet-partners/job-hunt.jpg?raw=true" />
-
-<br />
-
-## Author's Environmental Impact Statement:
-
-#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please help me become a more carbon :deciduous_tree: neutral :recycle: JS dev by sharing your star power :sparkles: with me.
